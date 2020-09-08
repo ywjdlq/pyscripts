@@ -1,4 +1,4 @@
-# ZKTeco中控指纹自动打卡及修改打卡时间
+# ZKTeco
 
 
 ## ZKTeco S30
